@@ -1,0 +1,3 @@
+apt-get install tmux
+yum install tmux
+pacman -S tmux
